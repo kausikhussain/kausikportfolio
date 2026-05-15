@@ -19,7 +19,7 @@ const educationDetails = [
     institution: "Apex Senior Secondary School",
     location: "Baidyarajpur, Jajpur",
     period: "2023",
-    score: "82%",
+    score: "71%",
     type: "Senior Secondary",
   },
   {
@@ -27,7 +27,7 @@ const educationDetails = [
     institution: "Gurukul Public School",
     location: "Haridaspur, Jajpur",
     period: "2021",
-    score: "86%",
+    score: "76%",
     type: "Secondary",
   },
 ];
