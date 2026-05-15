@@ -5,7 +5,7 @@ import { BiEnvelope } from "react-icons/bi";
 
 export function Footer() {
   return (
-    <footer className="border-t border-border/40 bg-background/95 supports-[backdrop-filter]:bg-background/60 py-8 md:py-12">
+    <footer id="contact" className="border-t border-border/40 bg-background/95 supports-[backdrop-filter]:bg-background/60 py-8 md:py-12">
       <div className="container mx-auto px-4 md:px-6 flex flex-col md:flex-row justify-between items-center gap-6">
         <div className="flex flex-col items-center md:items-start gap-2">
           <Link href="/" className="text-2xl font-bold tracking-tighter">
